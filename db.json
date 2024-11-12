@@ -1,0 +1,22 @@
+{
+  "gastos": [
+    {
+      "descricao": "IPVA",
+      "valor": "300",
+      "categoria": "Carro",
+      "id": "be12"
+    },
+    {
+      "descricao": "Manutenção",
+      "valor": "3200",
+      "categoria": "Carro",
+      "id": "41e8"
+    },
+    {
+      "descricao": "Mercado",
+      "valor": "300",
+      "categoria": "Alimentação",
+      "id": "8f9c"
+    }
+  ]
+}

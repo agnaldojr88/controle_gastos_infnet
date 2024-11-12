@@ -1,0 +1,3 @@
+ 
+ #Inicia JSON
+ npx json-server  db.json
